@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://YOUR-VERCEL-URL.vercel.app"), // <-- update this once deployed
   icons: {
     icon: "/icon.png",          // from app/icon.png
-    apple: "/apple-touch-icon.png",   // from public/apple-icon.png
+    apple: "/apple-icon.png",   // from public/apple-icon.png
   },
   themeColor: "#020617", // dark slate background
   manifest: "/manifest.json",   // optional PWA (see note below)
